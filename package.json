@@ -1,0 +1,19 @@
+{
+  "name": "resilient-email-service",
+  "version": "1.0.0",
+  "description": "this is the resilient email sending service using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Satish Rathod",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.9"
+  }
+}
