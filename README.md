@@ -1,4 +1,5 @@
-Email Service with Retry, Rate Limiting, and Fallback Mechanism
+<-- Email Service with Retry, Rate Limiting, and Fallback Mechanism -->
+
 This project implements an email sending service using a mock provider, with features such as retry with exponential backoff, rate limiting, idempotency, and fallback between multiple providers. It is built with Node.js and Express.
 
 # Features
